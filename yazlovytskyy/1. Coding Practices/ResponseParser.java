@@ -78,12 +78,12 @@ public class ResponseParser {
   
   //refactoring example 2
   private void parseHeaders() throws Exception {
-	List<Headers> headers= ResponseLineParser.getHeadersFrom(getHeaderLines());
-	Iterator it = headers.iterator();
-	while (it.hasNext()) {
-	  Header header = it.next();
-	  headers.put(header.key, header.value);
-	}
+    List<Headers> headers= ResponseLineParser.getHeadersFrom(getHeaderLines());
+    Iterator it = headers.iterator();
+    while (it.hasNext()) {
+      Header header = it.next();
+      headers.put(header.key, header.value);
+    }
   }
 
   private void parseBody() throws Exception {

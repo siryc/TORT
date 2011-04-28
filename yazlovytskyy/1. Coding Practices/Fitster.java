@@ -1,4 +1,4 @@
-//by WardCunningham
+//by Ward Cunningham
 
 private void openFile() {
         stopCellEditing();
