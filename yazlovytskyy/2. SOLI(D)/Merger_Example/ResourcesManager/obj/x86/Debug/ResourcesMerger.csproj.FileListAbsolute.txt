@@ -1,0 +1,19 @@
+D:\projects\Doctor_eleks\ResourcesMerger\ResourceMerger\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\ResourcesMerger\ResourceMerger\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\ResourcesMerger\ResourceMerger\bin\Debug\ResourceMerger.exe
+D:\My Dropbox\ResourcesMerger\ResourceMerger\bin\Debug\ResourceMerger.pdb
+D:\My Dropbox\ResourcesMerger\ResourceMerger\obj\x86\Debug\ResourceMerger.exe
+D:\My Dropbox\ResourcesMerger\ResourceMerger\obj\x86\Debug\ResourceMerger.pdb
+f:\Dropbox\ResourcesMerger\ResourceMerger\bin\Debug\ResourceMerger.exe
+f:\Dropbox\ResourcesMerger\ResourceMerger\bin\Debug\ResourceMerger.pdb
+f:\Dropbox\ResourcesMerger\ResourceMerger\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Dropbox\ResourcesMerger\ResourceMerger\obj\x86\Debug\ResourceMerger.exe
+f:\Dropbox\ResourcesMerger\ResourceMerger\obj\x86\Debug\ResourceMerger.pdb
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\bin\Debug\ResourceMerger.exe
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\bin\Debug\ResourceMerger.pdb
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\obj\x86\Debug\ResourceMerger.exe
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\obj\x86\Debug\ResourceMerger.pdb
+D:\Notes\my_presentations\cources\TORT\yazlovytskyy\2. SOLI(D)\Merger_Example\ResourcesManager\obj\x86\Debug\ResourceMerger.exe
+D:\Notes\my_presentations\cources\TORT\yazlovytskyy\2. SOLI(D)\Merger_Example\ResourcesManager\obj\x86\Debug\ResourceMerger.pdb
+D:\Notes\my_presentations\cources\TORT\yazlovytskyy\2. SOLI(D)\Merger_Example\ResourcesManager\obj\x86\Debug\ResolveAssemblyReference.cache
