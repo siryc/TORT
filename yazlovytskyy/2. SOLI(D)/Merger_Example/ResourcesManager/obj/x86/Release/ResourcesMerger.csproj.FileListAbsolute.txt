@@ -1,0 +1,12 @@
+f:\Dropbox\ResourcesMerger\ResourceMerger\bin\Release\ResourceMerger.exe
+f:\Dropbox\ResourcesMerger\ResourceMerger\bin\Release\ResourceMerger.pdb
+f:\Dropbox\ResourcesMerger\ResourceMerger\obj\x86\Release\ResolveAssemblyReference.cache
+f:\Dropbox\ResourcesMerger\ResourceMerger\obj\x86\Release\ResourceMerger.exe
+f:\Dropbox\ResourcesMerger\ResourceMerger\obj\x86\Release\ResourceMerger.pdb
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\bin\Release\ResourceMerger.exe
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\bin\Release\ResourceMerger.pdb
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\obj\x86\Release\ResolveAssemblyReference.cache
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\obj\x86\Release\ResourceMerger.exe
+f:\Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\obj\x86\Release\ResourceMerger.pdb
+D:\My Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\obj\x86\Release\ResourceMerger.exe
+D:\My Dropbox\ResourcesMerger\ResourceMerger\ResourcesManager\obj\x86\Release\ResourceMerger.pdb

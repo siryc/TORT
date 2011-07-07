@@ -1,0 +1,225 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/d:testdata/f:Res_Eng.xml" caret="9802" fromTop="139" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:XmlExtensions.cs" caret="1996" fromTop="35" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/d:Merger/f:ResourcesMerger.cs" caret="977" fromTop="31" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="302" fromTop="3" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="3236" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="1810" fromTop="31" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="983" fromTop="17" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="899" fromTop="13" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="1095" fromTop="21" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="13" fromTop="0" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="2293" fromTop="38" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="2256" fromTop="27" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="2539" fromTop="28" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:XmlExtensions.cs" caret="2089" fromTop="24" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:XmlExtensions.cs" caret="2091" fromTop="26" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/d:Merger/f:ResourcesMerger.cs" caret="1246" fromTop="15" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:XmlExtensions.cs" caret="1375" fromTop="8" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/d:Merger/f:ResourcesMerger.cs" caret="1455" fromTop="21" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:XmlExtensions.cs" caret="1911" fromTop="27" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:XmlExtensions.cs" caret="1684" fromTop="20" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="756" fromTop="18" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="762" fromTop="9" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="3594" fromTop="33" />
+      <File id="456D64CA-D4F7-4B21-9FD1-0738FA90587E/f:MergingTests.cs" caret="355" fromTop="3" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="3487" fromTop="25" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/d:Merger/f:ResourcesMerger.cs" caret="1106" fromTop="16" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/d:Merger/f:ResourcesMerger.cs" caret="1909" fromTop="15" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/d:Merger/f:ResourcesMerger.cs" caret="995" fromTop="17" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/d:Merger/f:ResourcesMerger.cs" caret="977" fromTop="12" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="248" fromTop="11" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="1490" fromTop="19" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="1241" fromTop="12" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="2148" fromTop="32" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="1096" fromTop="16" />
+      <File id="BB714EB7-CDB0-4CF4-AA55-9B3F42FCD695/f:Program.cs" caret="3847" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="9" />
+      <Item value="new" priority="10" />
+      <Item value="ValidationResult" priority="0" />
+      <Item value="public" priority="7" />
+      <Item value="ResourceMerger" priority="0" />
+      <Item value="XmlData`0" priority="0" />
+      <Item value="var" priority="14" />
+      <Item value="Directory`0" priority="2" />
+      <Item value="args" priority="3" />
+      <Item value="if" priority="18" />
+      <Item value="Length" priority="0" />
+      <Item value="Console`0" priority="1" />
+      <Item value="string" priority="5" />
+      <Item value="List" priority="5" />
+      <Item value="existenceValidationMessages" priority="2" />
+      <Item value="Exit`0" priority="0" />
+      <Item value="Environment`0" priority="1" />
+      <Item value="foreach" priority="4" />
+      <Item value="sourceDir" priority="0" />
+      <Item value="private" priority="9" />
+      <Item value="void" priority="1" />
+      <Item value="DirectoryInfo`0" priority="0" />
+      <Item value="dir" priority="2" />
+      <Item value="AllDirectories" priority="1" />
+      <Item value="for" priority="4" />
+      <Item value="File`0" priority="1" />
+      <Item value="in" priority="3" />
+      <Item value="resourceFiles" priority="0" />
+      <Item value="XmlDocument`0" priority="1" />
+      <Item value="xmlDoc" priority="3" />
+      <Item value="file" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="BaseDir" priority="0" />
+      <Item value="static" priority="4" />
+      <Item value="bool" priority="3" />
+      <Item value="this" priority="3" />
+      <Item value="XmlAttributeCollection`0" priority="0" />
+      <Item value="attributes" priority="4" />
+      <Item value="compareWith" priority="3" />
+      <Item value="attr" priority="0" />
+      <Item value="XmlAttribute`0" priority="1" />
+      <Item value="i" priority="3" />
+      <Item value="true" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="ParallelEnumerable`0" priority="0" />
+      <Item value="attribute" priority="1" />
+      <Item value="MergingDestination" priority="2" />
+      <Item value="node" priority="21" />
+      <Item value="source" priority="0" />
+      <Item value="destination" priority="0" />
+      <Item value="throw" priority="1" />
+      <Item value="XmlNode`0" priority="3" />
+      <Item value="copy" priority="0" />
+      <Item value="copyOfNode" priority="4" />
+      <Item value="thisNode" priority="2" />
+      <Item value="else" priority="2" />
+      <Item value="MergeCorrespondedNodes`0" priority="0" />
+      <Item value="correspondedNode" priority="0" />
+      <Item value="MergingResult`0" priority="2" />
+      <Item value="MergingResult" priority="2" />
+      <Item value="merger" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="e" priority="2" />
+      <Item value="ExitWithError`0" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="XmlSignificantWhitespace`0" priority="0" />
+      <Item value="MergingTests`0" priority="0" />
+      <Item value="mergingSource" priority="4" />
+      <Item value="MergingSource" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="_differingNodesPaths" priority="0" />
+      <Item value="continue" priority="0" />
+      <Item value="Exception" priority="0" />
+      <Item value="MergingDestinationFilePath" priority="0" />
+      <Item value="ValidateMergingResult`0" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="pos" priority="0" />
+      <Item value="_resourcesFileNames" priority="0" />
+      <Item value="fileName" priority="0" />
+      <Item value="resources" priority="0" />
+      <Item value="FileInfo`0" priority="0" />
+      <Item value="sourceXml" priority="0" />
+      <Item value="destinationXml" priority="0" />
+      <Item value="pathToDir" priority="2" />
+      <Item value="Path`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="Join`4" priority="0" />
+      <Item value="ToArray`0" priority="0" />
+      <Item value="AddRange`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Join`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="GetFiles`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.SearchOption">
+      <Item value="AllDirectories" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Load`0" priority="1" />
+      <Item value="ImportNode`0" priority="1" />
+      <Item value="FirstChild" priority="0" />
+      <Item value="SelectSingleNode`0" priority="0" />
+      <Item value="Save`0" priority="0" />
+      <Item value="InnerText" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="FullName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="Attributes" priority="1" />
+      <Item value="OwnerDocument" priority="4" />
+      <Item value="Clone`0" priority="0" />
+      <Item value="AppendChild`0" priority="1" />
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="HasChildNodes" priority="0" />
+      <Item value="LastChild" priority="2" />
+      <Item value="RemoveChild`0" priority="1" />
+      <Item value="ParentNode" priority="4" />
+      <Item value="PreviousSibling" priority="1" />
+      <Item value="ChildNodes" priority="3" />
+      <Item value="InsertBefore`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttributeCollection">
+      <Item value="Count" priority="3" />
+      <Item value="EqualByValues`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="Name" priority="2" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ResourceMerger.Merger.ResourcesMerger">
+      <Item value="MergingResult" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+      <Item value="StackTrace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNodeList">
+      <Item value="Count" priority="1" />
+      <Item value="Item`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
